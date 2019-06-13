@@ -14,7 +14,7 @@ public class TetrominoTest {
 	
 	private static Tetromino tetromino=new Tetromino();//创建对象
 
-	private static Tetromino tetromino=new Tetromino();//创建对象
+
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
